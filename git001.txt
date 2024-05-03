@@ -1,8 +1,6 @@
 Thai-Nam-Thip Team
 
 Hello Tui, Nor we gonna learn about "git merge"
-Name : Peerapat Sukkasem
-
 Session to create branch following this:
 > git branch <your branch name>
 > git switch <your branch name>
@@ -11,3 +9,6 @@ my branch is "fonfon"
 when you push 
 git push origin fonfon
 origin==remote name
+
+Name : peerapat.suk
+site : tnt
