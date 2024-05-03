@@ -7,3 +7,7 @@ Session to create branch following this:
 > git branch <your branch name>
 > git switch <your branch name>
 my branch is "fonfon"
+
+when you push 
+git push origin fonfon
+origin==remote name
