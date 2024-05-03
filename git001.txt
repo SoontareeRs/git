@@ -1,3 +1,5 @@
 ThaiNamThip
 
+Hello Tui, Nor we gonna learn about "git merge"
+
 Name : Peerapat Sukkasem
