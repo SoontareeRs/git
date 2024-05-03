@@ -1,5 +1,9 @@
-ThaiNamThip
+Thai-Nam-Thip Team
 
 Hello Tui, Nor we gonna learn about "git merge"
-
 Name : Peerapat Sukkasem
+
+Session to create branch following this:
+> git branch <your branch name>
+> git switch <your branch name>
+my branch is "fonfon"
